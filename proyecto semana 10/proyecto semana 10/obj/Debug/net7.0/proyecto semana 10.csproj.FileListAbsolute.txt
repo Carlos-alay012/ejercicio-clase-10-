@@ -1,0 +1,15 @@
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\bin\Debug\net7.0\proyecto semana 10.exe
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\bin\Debug\net7.0\proyecto semana 10.deps.json
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\bin\Debug\net7.0\proyecto semana 10.runtimeconfig.json
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\bin\Debug\net7.0\proyecto semana 10.dll
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\bin\Debug\net7.0\proyecto semana 10.pdb
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.AssemblyInfo.cs
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.dll
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\refint\proyecto semana 10.dll
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.pdb
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\proyecto semana 10.genruntimeconfig.cache
+C:\Users\gamer\source\repos\proyecto semana 10\proyecto semana 10\obj\Debug\net7.0\ref\proyecto semana 10.dll
